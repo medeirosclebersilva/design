@@ -433,7 +433,7 @@ aside.aside-left {
 }
 .background-dark, .background-dark p, a.background-dark, a.background-dark:visited, a.background-dark:link, .background-dark a, .background-dark a:link, .background-dark a:visited, .background-dark a:hover, .background-dark a:active,
 .primary-color-dark .background-primary, .primary-color-dark .background-primary p, .primary-color-dark a.background-primary, .primary-color-dark a.background-primary:visited, .primary-color-dark a.background-primary:link, .primary-color-dark a.background-primary:visited, .primary-color-dark .background-primary a, .primary-color-dark .background-primary a:link, .primary-color-dark .background-primary a:visited, .primary-color-dark .background-primary a:hover, .primary-color-dark .background-primary a:active {
-  color: #7697A2;
+  color: #777777;
 }
 .background-white h1, .background-white h2, .background-white h3, .background-white h4, .background-white h5, .background-white h6,
 .background-white .h1, .background-white .h2, .background-white .h3, .background-white .h4, .background-white .h5, .background-white .h6,
@@ -1058,7 +1058,7 @@ i.icon-circle-small {
   display: inline-block;
 }
 .owl-carousel .owl-dot span {
-  background: #7697a2 none repeat scroll 0 0;
+  background: #777777 none repeat scroll 0 0;
   border-radius: 0;
   display: block;
   height: 1px;
@@ -1078,8 +1078,8 @@ i.icon-circle-small {
 }
 .owl-carousel .owl-nav div {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #7697a2!important;
-  border: 1px solid #7697a2;
+  color: #777777!important;
+  border: 1px solid #777777;
   border-radius: 0;
   font-family: sli;
   height: 40px;
